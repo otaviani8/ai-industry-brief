@@ -1,5 +1,10 @@
 # AI Industry Brief
 
+![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-Haiku%20%2B%20Sonnet-D97757?logo=anthropic&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-scheduled-2088FF?logo=githubactions&logoColor=white)
+![Cost](https://img.shields.io/badge/daily%20brief-%3C%20USD%200.01%2Frun-brightgreen)
+
 Two scheduled LLM pipelines on GitHub Actions turn industry news into material for the business owner. They need no servers and cost cents per run.
 
 - **Daily brief** (`resumen.py`, weekdays at 7:00 Buenos Aires time):
